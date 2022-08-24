@@ -8,5 +8,11 @@
             "type": "shell",
             "command": "pipenv shell",
         },
+        {
+          "label": "main.py",
+          "type": "shell",
+          "command": "pipenv run python main.py",
+          "detail": "main.pyを実行"
+      },
     ]
 }
