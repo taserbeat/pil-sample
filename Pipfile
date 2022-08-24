@@ -8,6 +8,8 @@ main = "python main.py"
 
 [packages]
 pillow = "==9.2.0"
+numpy = "==1.21.6"
+matplotlib = "==3.5.3"
 
 [dev-packages]
 autopep8 = "==1.5.7"
